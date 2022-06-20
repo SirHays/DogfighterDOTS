@@ -1,0 +1,65 @@
+{
+    "PilotShip": {
+        "checkpoints": [
+            {
+                "steps": 6999996,
+                "file_path": "results\\train1\\PilotShip\\PilotShip-6999996.onnx",
+                "reward": null,
+                "creation_time": 1655060768.0846345,
+                "auxillary_file_paths": [
+                    "results\\train1\\PilotShip\\PilotShip-6999996.pt"
+                ]
+            },
+            {
+                "steps": 7999990,
+                "file_path": "results\\train1\\PilotShip\\PilotShip-7999990.onnx",
+                "reward": null,
+                "creation_time": 1655061406.94682,
+                "auxillary_file_paths": [
+                    "results\\train1\\PilotShip\\PilotShip-7999990.pt"
+                ]
+            },
+            {
+                "steps": 8999980,
+                "file_path": "results\\train1\\PilotShip\\PilotShip-8999980.onnx",
+                "reward": null,
+                "creation_time": 1655062044.4696743,
+                "auxillary_file_paths": [
+                    "results\\train1\\PilotShip\\PilotShip-8999980.pt"
+                ]
+            },
+            {
+                "steps": 9999967,
+                "file_path": "results\\train1\\PilotShip\\PilotShip-9999967.onnx",
+                "reward": null,
+                "creation_time": 1655062687.5110877,
+                "auxillary_file_paths": [
+                    "results\\train1\\PilotShip\\PilotShip-9999967.pt"
+                ]
+            },
+            {
+                "steps": 10995439,
+                "file_path": "results\\train1\\PilotShip\\PilotShip-10995439.onnx",
+                "reward": null,
+                "creation_time": 1655063322.6891994,
+                "auxillary_file_paths": [
+                    "results\\train1\\PilotShip\\PilotShip-10995439.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10995439,
+            "file_path": "results\\train1\\PilotShip.onnx",
+            "reward": null,
+            "creation_time": 1655063322.6891994,
+            "auxillary_file_paths": [
+                "results\\train1\\PilotShip\\PilotShip-10995439.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
