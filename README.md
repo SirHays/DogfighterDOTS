@@ -212,7 +212,7 @@ Other systems such as UpdateUISystem, SpawnProjectilesSystem, and EntityTrackerS
 
 <br />
 
-* Hybrid components which have been removed past Entities 0.17 create a companion gameobject for the entity and allows it to have components cant be attached to an entity like the pilotagent script and all the other
+* Hybrid components which have been removed past Entities 0.17 create a companion gameobject for the entity and allows it to have components that can't be attached to an entity like the pilotagent script and all the other
  ML-Agents components such as the decision requester, Agent superclass, and the behaviour parameters script.
 
 The use of hybrid components comes with a few drawbacks such the need for additional sync points in each frame in order to access the agent script and make use of its information.
